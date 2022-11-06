@@ -164,6 +164,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *JosSid Vicious*
 
+-------
+
+> This is the way
+
+*The Mandalorian*
+
 --------------
 
 > Mientras unos sufren por amor yo sufro porque no compila.
